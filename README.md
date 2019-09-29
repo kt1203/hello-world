@@ -1,2 +1,4 @@
 # hello-world
-Beispiel für Github-Arbei
+Beispiel für Github-Arbeit
+
+Einen Änderungstext eingefügt
